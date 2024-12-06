@@ -1,1 +1,1 @@
-# -Sufe-Latex-Beamer-Template
+# 这是我自己做的上海财经大学的 beamer 模板，供大家使用。
